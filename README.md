@@ -1,7 +1,17 @@
 # Python Crash Course
 
-This repository contains solutions to exercises and small projects completed while studying *Python Crash Course* by Eric Matthes.
+Solutions and small projects from *Python Crash Course* by Eric Matthes.
 
-The purpose of this repository is to document my progress in Python programming and to build a foundation for future work in probability, statistics, data science, and quantitative applications.
+This repository documents my progress in Python programming and serves as a foundation for future work in probability, statistics, and data science.
+
+## Structure
+
+- `ch_2/` – Variables and simple data types
+- `ch_3/` – Lists
+- `ch_4/` – Working with lists
+- `ch_5/` – If statements
+- `ch_6/` – Dictionaries
+- `ch_7/` – User input and while loops
+- `ch_8/` – Functions
 
 Author: Wojciech Tralle
