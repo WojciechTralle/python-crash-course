@@ -6,6 +6,7 @@ This repository documents my progress in Python programming and serves as a foun
 
 ## Structure
 
+- `ch_1/` - Getting Started
 - `ch_2/` – Variables and simple data types
 - `ch_3/` – Lists
 - `ch_4/` – Working with lists
