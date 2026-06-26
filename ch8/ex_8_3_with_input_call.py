@@ -1,3 +1,4 @@
+# exercise 8-3 combined with input() call.
 def make_shirt(size, message_text):
    print(f"Your size {size} will display '{message_text}'.")
     
