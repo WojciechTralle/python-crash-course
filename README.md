@@ -14,5 +14,6 @@ This repository documents my progress in Python programming and serves as a foun
 - `ch6/` – Dictionaries
 - `ch7/` – User input and while loops
 - `ch8/` – Functions
+- `ch9/` - Classes
 
 Author: Wojciech Tralle
