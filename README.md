@@ -15,5 +15,6 @@ This repository documents my progress in Python programming and serves as a foun
 - `ch7/` – User input and while loops
 - `ch8/` – Functions
 - `ch9/` - Classes
+- `ch10/` - Files and Exceptions
 
 Author: Wojciech Tralle
