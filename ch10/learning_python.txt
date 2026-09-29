@@ -1,0 +1,6 @@
+In Python you can store information in variables and use different data types such as strings, numbers, lists, tuples, and dictionaries.
+In Python you can use if statements and loops to make decisions and repeat operations.
+In Python you can write functions to organize reusable pieces of code.
+In Python you can create classes and objects to model real-world things and use inheritance to build related classes.
+In Python you can organize code into modules and import classes and functions from other files.
+In Python you can read information stored in text files and work with that information in your programs.
